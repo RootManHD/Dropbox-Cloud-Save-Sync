@@ -1,0 +1,5 @@
+{
+  "app_key": "YOUR_APP_KEY_HERE",
+  "app_secret": "YOUR_APP_SECRET_HERE",
+  "refresh_token": "WILL_BE_AUTOMATICALLY_GENERATED_BY_SCRIPT"
+}

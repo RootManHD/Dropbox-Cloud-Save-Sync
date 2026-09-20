@@ -1,0 +1,4 @@
+dropbox_config.json
+_local_backups/
+__pycache__/
+*.pyc

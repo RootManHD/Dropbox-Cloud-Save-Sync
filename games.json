@@ -1,0 +1,7 @@
+[
+  {
+    "id": 1,
+    "name": "Example Game 1",
+    "save_path": "%LOCALAPPDATA%\\DeveloperName\\GameName\\Saved\\SaveGames"
+  }
+]
